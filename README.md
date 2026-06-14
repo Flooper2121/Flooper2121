@@ -1,16 +1,18 @@
-## Hi there 👋
+Hey, I'm Marco 👋
 
-<!--
-**Flooper2121/Flooper2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current student at Emory University, triple-majoring in Human Health, Economics, and Business Administration
 
-Here are some ideas to get you started:
+I like building things that actually get used: AI tools, tracking systems, resources that help other students.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm building an AI automation agent in Microsoft Copilot Studio for a healthcare organization, integrating it with their EHR system to cut down on manual admin work.
+
+I also run the [BSAG Resource Hub](https://flooper2121.github.io/BSAG-Resource-list/) — a searchable directory of 100+ scholarships, fellowships, and career programs for student-athletes.
+
+Tools I use a lot: Claude, Excel (dashboards, automation, etc), ChatGPT
+
+**Fun facts:**
+- NCAA Conference Finalist in Track & Field
+- AAU National Gold Medalist (Karate)
+- Big into acapella, jazz, and strength training
+
+Reach me: marco.souchet@emory.edu or [LinkedIn](https://www.linkedin.com/in/marco-souchet/)
